@@ -25,7 +25,7 @@ class Gac
     }
 
     private
-    function check_success($data, $long_args1, $long_args2, $long_args3, $long_args4, $long_args5, $long_args6, $long_args7, $long_args8, $long_args9, $long_args10)
+    function check_success($data, $long_args2, $long_args3, $long_args4, $long_args5, $long_args6, $long_args7, $long_args8, $long_args9, $long_args10)
     {
         $rate = 0;
         for ($i = 0; $i < $this->lenght; $i++)
