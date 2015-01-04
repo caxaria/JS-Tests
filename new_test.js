@@ -4,3 +4,4 @@ if(a==v) {
 
 var a = "asd" + 'asd';
 m = 1
+return
