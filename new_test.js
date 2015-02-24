@@ -2,7 +2,9 @@ if(a===v) {
   return;
 }
 
-test();
+function otherTest() {
+  test();  
+}
 
 function test() {
   console.log("a");
