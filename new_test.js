@@ -1,11 +1,7 @@
-if(a===v) {
-  return;
+function updateManifestVersion(filename, version) {
+   readFile("")
+}
+function readFile(filename) {
+
 }
 
-function otherTest() {
-  test();  
-}
-
-function test() {
-  console.log("a");
-}
