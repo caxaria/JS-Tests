@@ -44,3 +44,21 @@ function otherMin(meaning) {
     }
   }
 }
+
+function otherMain(meaning) {
+  var day = true;
+
+  if (meaning === 42) {
+    while (day) {
+      shuffle();
+
+      if (tired) { // JSHint: Blocks are nested too deeply (3).
+          sleep();
+      }
+      else {
+         if(true) return false;
+         console.log(123);
+      }
+    }
+  }
+}
