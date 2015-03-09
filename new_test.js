@@ -5,7 +5,7 @@ function updateManifestVersion(filename, version) {
    }
 }
 function readFile(filename) {
-
+   eval(1);
 }
 
 function main(meaning) {
