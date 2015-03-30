@@ -5,11 +5,11 @@ function a() {
 
 a();
 
-if(1 === 2 && 3 === 5) {
+if(1 == 2 && 3 == 5) {
   return;
 }
 
 
 if(true) { return };
 
-if(2 === 1) { return };
+if(2 == 1) { return };
