@@ -12,6 +12,8 @@ function main(meaning) {
   var day = true;
 
   if (meaning === 42) {
+     if(1 == 2) return
+     
     while (day) {
       shuffle();
 
@@ -22,6 +24,7 @@ function main(meaning) {
          if(true) return false;
          console.log(123);
       }
+      eval(23)
     }
   }
 }
