@@ -4,6 +4,7 @@ function updateManifestVersion(filename, version) {
       return;
    }
 }
+
 function readFile(filename) {
    eval(1);
 }
