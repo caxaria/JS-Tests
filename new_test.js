@@ -3,7 +3,6 @@ function updateManifestVersion(filename, version) {
    if(a == b) {
       return;
    }
-}
 
 function readFile(filename) {
    eval(1);
