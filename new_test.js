@@ -1,8 +1,9 @@
 function updateManifestVersion(filename, version) {
    readFile("")
-   if(a == b) {
-      return;
+   if(a === b) {
+      return
    }
+}
 
 function readFile(filename) {
    eval(1);
@@ -11,7 +12,7 @@ function readFile(filename) {
 function main(meaning) {
   var day = true;
 
-  if (meaning === 42) {
+  if (meaning == 42) {
      if(1 == 2) return
      
     while (day) {
