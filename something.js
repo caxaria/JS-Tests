@@ -1,1 +1,3 @@
-eval(1 == 1 + 3);
+eval(1 === 2);
+
+console.log("asd")
