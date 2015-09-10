@@ -13,7 +13,7 @@ function main(meaning) {
   var day = true;
 
   if (meaning == 42) {
-     if(1 == 2) return
+     if(1 === 2) return
      
     while (day) {
       shuffle();
